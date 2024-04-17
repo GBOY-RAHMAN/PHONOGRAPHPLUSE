@@ -81,13 +81,6 @@ nav {
 }
 
 /* Styles icons on nav section */
-.fa-solid {
-  color: rgb(4, 4, 4);
-}
-
-.fa-solid:hover {
-  transform: rotate(180deg);
-}
 
 .ri-menu-line {
   font-size: 25px;
@@ -100,10 +93,6 @@ nav {
 }
 .list li a:hover{
   color:#675900 ;
-}
-.icons {
-  display: flex;
-  color: rgb(0, 0, 0);
 }
 
 li > span {
